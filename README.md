@@ -4,7 +4,7 @@ Static academic homepage for GitHub Pages.
 
 Live URL after Pages is enabled:
 
-https://ziyi-liu-30.github.io/zyl.github.io/
+https://ziyi-liu-30.github.io/
 
 ## Files
 
