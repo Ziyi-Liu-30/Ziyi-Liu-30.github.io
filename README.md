@@ -17,14 +17,6 @@ https://ziyi-liu-30.github.io/zyl.github.io/
 
 Edit `index.html` to update the page. No build step.
 
-## Publish
-
-This repository is meant to be pushed to [Ziyi-Liu-30/zyl.github.io](https://github.com/Ziyi-Liu-30/zyl.github.io).
-
-1. Open the GitHub repo → **Add file → Upload files**, or `git push` the files above.
-2. **Settings → Pages** → Source: **Deploy from a branch** → `main` / `/ (root)`.
-3. Wait a minute, then open https://ziyi-liu-30.github.io/zyl.github.io/
-
 ## Local preview
 
 ```bash
